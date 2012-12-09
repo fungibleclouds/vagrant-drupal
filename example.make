@@ -10,7 +10,8 @@
 ;includes[] = http://github.com/xforty/xforty-drupal/raw/7.x/xforty-com.make
 
 ; If you want to use a specific tag instead (recommended)
-includes[] = http://github.com/xforty/xforty-drupal/raw/7.x-1.0.0/xforty-com.make
+;includes[] = http://github.com/xforty/xforty-drupal/raw/7.x-1.0.0/xforty-com.make
+includes[] = https://raw.github.com/JayeshSirInstitute/xforty-drupal/mytweaks/xforty-com.make
 
 ;----------------------------------------
 ; features
